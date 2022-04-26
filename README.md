@@ -18,10 +18,10 @@ Your mission is to write a piece of code to calculate the price of any conceivab
 
 For example, how much does this basket of books cost?
 
-2 copies of the first book
-2 copies of the second book
-2 copies of the third book
-1 copy of the fourth book
-1 copy of the fifth book
+- 2 copies of the first book
+- 2 copies of the second book 
+- 2 copies of the third book 
+- 1 copy of the fourth book 
+- 1 copy of the fifth book 
 
 Answer: $51.20. We apply 2 times a discount for four books. 4 * 8 * 0.8 * 2 = $51.20.
